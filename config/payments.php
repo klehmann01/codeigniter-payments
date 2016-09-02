@@ -13,3 +13,5 @@ $config['mode'] = 'test';
  * DEFAULT: TRUE 
  */
 $config['force_secure_connection'] = FALSE;
+
+echo "test";
